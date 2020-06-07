@@ -1,5 +1,5 @@
-# baseurl = "file:///c:/Users/Wanqi/Desktop/DPH206_final/hivt/docs"
-baseurl = "https://github.com/green-ear-rabbit.github.io/hivt"
+#baseurl = "file:///c:/Users/Wanqi/Desktop/2020SURF/hivt/docs"
+baseurl = "https://github.com/green-ear-rabbit.github.io/hivt/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
